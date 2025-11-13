@@ -1,5 +1,5 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1762464108
+::res://::1763070757
 ::res://addons/::1760899856
 ::res://addons/gdpractice/::1760899856
 build.gd::GDScript::4950939465197338071::1760899856::0::1::::<>SceneTree<><>0<>0<><>::
@@ -9,7 +9,7 @@ gdpractice.gd::GDScript::5979087022897298672::1760899856::0::1::::<>EditorPlugin
 metadata.gd::GDScript::2985675861330059244::1760899856::0::1::::<>Node<><>0<>1<><>::
 paths.gd::GDScript::82790454512892745::1760899856::0::1::::<>RefCounted<><>0<>0<><>::
 plugin.cfg::TextFile::-1::1760899856::0::1::::<><><>0<>0<><>::
-::res://addons/gdpractice/assets/::1762291570
+::res://addons/gdpractice/assets/::1762464722
 checkbox_empty.svg::CompressedTexture2D::159996384623349208::1760899856::1762291443::1::::<><><>0<>0<>53bb7d2a866cb16a1a0471a771b4b0d7<>res://.godot/imported/checkbox_empty.svg-670795e6630909b934b40801062ec14f.ctex::
 checkbox_ticked.svg::CompressedTexture2D::4681739381960142151::1760899856::1762291443::1::::<><><>0<>0<>3072ea58afe0e073a60f9898f0f71ce4<>res://.godot/imported/checkbox_ticked.svg-564ad4b3ab0ae5c1e5fc8f01f4337ab7.ctex::
 dash_border.png::CompressedTexture2D::5174105164185721961::1760899856::1762291444::1::::<><><>0<>0<>371e521bb8f2b6b13019e828e8c0006f<>res://.godot/imported/dash_border.png-62c45c79b21ca5931452928502aa8536.ctex::
@@ -18,7 +18,7 @@ input_arrow.svg::CompressedTexture2D::4441352498702649159::1760899856::176229144
 input_mouse_base.svg::CompressedTexture2D::7057538906146452317::1760899856::1762291444::1::::<><><>0<>0<>a625696e0d39362100b6d3e86d40a4d8<>res://.godot/imported/input_mouse_base.svg-dbf80cc9a5deece90e8d05ef17a0c72f.ctex::
 input_mouse_left_click.svg::CompressedTexture2D::3923731288610382921::1760899856::1762291444::1::::<><><>0<>0<>b47916257ec9d9294c46de2a7ec3eb29<>res://.godot/imported/input_mouse_left_click.svg-be147924c06daa7ed438424ff9b7c06d.ctex::
 new_style_box_flat.tres::StyleBoxFlat::2828730235135847896::1760899856::0::1::::<><><>0<>0<><>::
-theme.tres::Theme::3147173487228338806::1762291570::0::1::::<><><>0<>0<><>::uid://d3u2nhkuevn1l::::res://addons/gdpractice/assets/fonts/Inter-Bold.ttf<>uid://deeixt6cs64ak::::res://addons/gdpractice/assets/fonts/Inter-SemiBold.ttf<>uid://b4dj3x16cr0vk::::res://addons/gdpractice/assets/fonts/Inter-ExtraBoldItalic.otf<>uid://btiybsu6acuy7::::res://addons/gdpractice/assets/fonts/Montserrat-Bold.ttf<>uid://h13sewj2ined::::res://addons/gdpractice/assets/fonts/Inter-BoldItalic.otf<>uid://c5j5yg0bc1jec::::res://addons/gdpractice/assets/fonts/Inter-Italic.otf<>uid://bhubmlwupfvt5::::res://addons/gdpractice/assets/fonts/Inter-Medium.ttf
+theme.tres::Theme::3147173487228338806::1762464722::0::1::::<><><>0<>0<><>::uid://d3u2nhkuevn1l::::res://addons/gdpractice/assets/fonts/Inter-Bold.ttf<>uid://deeixt6cs64ak::::res://addons/gdpractice/assets/fonts/Inter-SemiBold.ttf<>uid://b4dj3x16cr0vk::::res://addons/gdpractice/assets/fonts/Inter-ExtraBoldItalic.otf<>uid://btiybsu6acuy7::::res://addons/gdpractice/assets/fonts/Montserrat-Bold.ttf<>uid://h13sewj2ined::::res://addons/gdpractice/assets/fonts/Inter-BoldItalic.otf<>uid://c5j5yg0bc1jec::::res://addons/gdpractice/assets/fonts/Inter-Italic.otf<>uid://bhubmlwupfvt5::::res://addons/gdpractice/assets/fonts/Inter-Medium.ttf
 ::res://addons/gdpractice/assets/fonts/::1762291444
 Inter-Bold.ttf::FontFile::9167500186177253915::1760899856::1762291443::1::::<><><>0<>0<>2757372c7102dc28acb4cde6898256ee<>res://.godot/imported/Inter-Bold.ttf-8d68871aa6b1ad81a20ff97664dd0e9f.fontdata::
 Inter-BoldItalic.otf::FontFile::546728191683957199::1760899856::1762291443::1::::<><><>0<>0<>727278314f12df2533a872f8690f5476<>res://.godot/imported/Inter-BoldItalic.otf-3cddc448bbbebbbbd6abf92d039f40c5.fontdata::
@@ -138,9 +138,9 @@ ship_side_flame_sdf.png::CompressedTexture2D::2106004460296468406::1760899856::1
 side_thruster.gd::GDScript::8180930123752941538::1760899856::0::1::::<>Sprite2D<><>0<>0<><>::
 side_thruster.gdshader::Shader::6482540627631370662::1760899856::0::1::::<><><>0<>0<><>::
 side_thruster.tscn::PackedScene::3111890477948035777::1760899856::0::1::::<><><>0<>0<><>::uid://5aft6fdror7s::::res://assets/ship/side_thruster/ship_side_flame_sdf.png<>uid://cymgq5td2kyqg::::res://assets/ship/side_thruster/side_thruster.gdshader<>uid://dos5yu20occh3::::res://assets/ship/side_thruster/side_thruster.gd
-::res://lessons/::1762294604
-ship.gd::GDScript::5722269956175829367::1762294604::0::1::::<>Sprite2D<><>0<>0<><>::
-ship.tscn::PackedScene::6852640541401869762::1762292484::0::1::::<><><>0<>0<><>::uid://bniyrxn3r2v8h::::res://assets/ship.png<>uid://cnr57kmp1ut1x::::res://lessons/ship.gd
+::res://lessons/::1762466973
+ship.gd::GDScript::5722269956175829367::1762466973::0::1::::<>Sprite2D<><>0<>0<><>::
+ship.tscn::PackedScene::6852640541401869762::1762466945::0::1::::<><><>0<>0<><>::uid://bniyrxn3r2v8h::::res://assets/ship.png<>uid://cnr57kmp1ut1x::::res://lessons/ship.gd
 ::res://practices/::1760899856
 ::res://practices/L2.P1.bullet/::1762291444
 background.tscn::PackedScene::-1::1760899856::0::1::::<><><>0<>0<><>::res://assets/practice_assets/ellipse_yellow.png
